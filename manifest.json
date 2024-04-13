@@ -1,0 +1,19 @@
+{
+    "name" : "First_PWA",
+    "short_name" : "First_PWA",
+    "start_url" : "/",
+    "display" : "standalone",
+    "background_color" : "#fff",
+    "theme_color" : "#fff",
+    "description" : "Recherche de séries",
+    "icons" : [
+        {
+        "src" : "icon/icon48.png",
+        "sizes" : "48x48",
+        "type" : "image/png"
+    },{
+        "src" : "icon/icon512.png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    }]
+}
